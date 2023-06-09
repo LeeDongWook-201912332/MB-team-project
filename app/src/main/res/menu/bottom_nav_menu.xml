@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/restaurantFragment"
+        android:icon="@drawable/selector_restaurant_menu_icon"
+        android:title="음식점"
+        app:showAsAction="always"
+        tools:ignore="AlwaysShowAction" />
+
+    <item
+        android:id="@+id/matchingFragment"
+        android:icon="@drawable/selector_matching_icon"
+        android:title="친구찾기"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/moreFragment"
+        android:icon="@drawable/selector_more_icon"
+        android:title="더보기"
+        app:showAsAction="always" />
+
+
+</menu>

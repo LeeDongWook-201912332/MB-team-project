@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">mpTeam_layout</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="location_prompt">위치</string>
+    <string-array name="location_array">
+        <item>전체</item>
+        <item>정문</item>
+        <item>중문</item>
+        <item>후문</item>
+    </string-array>
+
+    <string name="type_prompt">메뉴 유형</string>
+    <string-array name="type_array">
+        <item>전체</item>
+        <item>한식</item>
+        <item>중식</item>
+        <item>일식</item>
+        <item>양식</item>
+    </string-array>
+
+    <string name="rating_prompt">점수를 매겨주세요.</string>
+    <string-array name="rating_array">
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+    </string-array>
+</resources>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530533620268",
+    "project_id": "mobile6-66533",
+    "storage_bucket": "mobile6-66533.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530533620268:android:ac0571a7463bdcbc424f89",
+        "android_client_info": {
+          "package_name": "com.jiwon.mpteam_layout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530533620268-gmnlb4rum40p10gf0d9rtvkq5tt7v735.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHWiNnM8BMQvmwH9HY95MQj5_cYWAq29Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530533620268-gmnlb4rum40p10gf0d9rtvkq5tt7v735.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
